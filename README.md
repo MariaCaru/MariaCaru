@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Carolina Cunha
-- 👀 I’m interested in starting a career as a programmer.
+- 👀 Intern of AI&ML at Compass UOL.
 - 🌱 Systems Analysis and Development Student.
 - 📫 How to reach me mcarolinacunha13@gmail.com
 
