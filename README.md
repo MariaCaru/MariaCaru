@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Carolina Cunha
 - 👀 Intern of AI&ML at Compass UOL.
-- 🌱 Systems Analysis and Development Student.
+- 🌱 Software Developer - AI/ML.
 - 📫 How to reach me mcarolinacunha13@gmail.com
 
 <!---
