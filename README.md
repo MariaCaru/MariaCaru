@@ -31,10 +31,6 @@ I'm a developer passionate about building efficient solutions through automation
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCaru&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCaru&layout=compact&theme=default)
 
 ## 🔗 Connect with Me
