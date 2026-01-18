@@ -30,9 +30,6 @@ I'm a developer passionate about building efficient solutions through automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCaru&layout=compact&theme=default)
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-3-15-cunha)
